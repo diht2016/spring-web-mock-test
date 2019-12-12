@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS rbcindex;
+
+CREATE TABLE rbcindex (
+  date_day VARCHAR(12) NOT NULL PRIMARY KEY,
+  mean_value VARCHAR(20) DEFAULT NULL
+);
