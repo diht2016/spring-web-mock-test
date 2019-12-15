@@ -1,7 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ru.sbt.mipt.services.weather.WeatherWebMockTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.327 s <<< FAILURE! - in ru.sbt.mipt.services.weather.WeatherWebMockTest
-webResultTest(ru.sbt.mipt.services.weather.WeatherWebMockTest)  Time elapsed: 0 s  <<< ERROR!
-java.lang.NoSuchMethodError: org.mockito.MockSettings.invocationListeners([Lorg/mockito/listeners/InvocationListener;)Lorg/mockito/MockSettings;
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.96 s - in ru.sbt.mipt.services.weather.WeatherWebMockTest
