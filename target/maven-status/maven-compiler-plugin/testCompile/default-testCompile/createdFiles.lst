@@ -1,0 +1,4 @@
+ru\sbt\mipt\services\rbc\RBCControllerTest.class
+ru\sbt\mipt\services\weather\WeatherWebMockTest.class
+ru\sbt\mipt\services\rbc\RBCWebMockTest.class
+ru\sbt\mipt\services\weather\WeatherControllerTest.class
